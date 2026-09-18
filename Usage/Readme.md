@@ -35,13 +35,15 @@ yt-dlp_win/
 └── Downloads/          ← this folder is auto-created; downloaded files go here
 ```
 
-**Important:** In the script file (`Tool_ultra-v1.py`), find this line near the top of the code (around line 156):
+### **Important:** In the script file (`Tool_ultra-v1.py`), find this line near the top of the code (around line 156):
+
+- Inside the python code Search this path and replace where you created this folder `yt-dlp_win/`
 
 ```python
 self.base_path = Path(r"C:\Users\Shahnwaz Aalam\Downloads\Compressed\yt-dlp_win\yt-dlp_win")
 ```
 
-Change the path inside the quotes to match **your own folder location** (the one you made above). For example:
+Optional - Change the path inside the quotes to match **your own folder location** (the one you made above). For example:
 
 ```python
 self.base_path = Path(r"C:\Users\YourName\Documents\yt-dlp_win")

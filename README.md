@@ -14,20 +14,6 @@ YouTube Downloader & Trim ULTRA 🎬</h1>
 </p>
 
 
-<p align="center">
-  <!-- GitHub Releases Dynamic Direct Download Link -->
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Download Tool" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com">Usage</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com">YouTube Channel</a>
-</p>
-
-
 ![Copy YouTube Link](https://github.com/HackBugs/YouTube-Video-Downloader-trimmer-Tool/blob/main/Screenshot/1.png)
 ![Copy YouTube Link](https://github.com/HackBugs/YouTube-Video-Downloader-trimmer-Tool/blob/main/Screenshot/2.png)
 ![Copy YouTube Link](https://github.com/HackBugs/YouTube-Video-Downloader-trimmer-Tool/blob/main/Screenshot/3.png)

@@ -43,6 +43,14 @@ yt-dlp_win/
 self.base_path = Path(r"C:\Users\Shahnwaz Aalam\Downloads\Compressed\yt-dlp_win\yt-dlp_win")
 ```
 
+```
+For example find this 
+self.base_path = Path(r"C:\Users\Shahnwaz Aalam\Downloads\Compressed\yt-dlp_win\yt-dlp_win")
+
+Replace like this 
+self.base_path = Path(r"Paste you path\yt-dlp_win")
+```
+
 Optional - Change the path inside the quotes to match **your own folder location** (the one you made above). For example:
 
 ```python

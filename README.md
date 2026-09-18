@@ -1,5 +1,5 @@
 <h1 align="center">
-YouTube-Video-Downloader-trimmer-Tool</h1>
+YouTube Downloader & Trim ULTRA 🎬</h1>
 
 <p align="center">
   <span>Steps - How To Use This Tool</span>

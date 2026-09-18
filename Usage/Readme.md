@@ -21,7 +21,7 @@ You'll also need a few Python packages (installed via `pip`, see Step 3 below):
 
 ---
 
-## 2. Folder Setup
+## 2. Create Folder For Setup
 
 The app expects one main folder containing everything. Create a folder like this:
 

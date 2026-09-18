@@ -13,6 +13,7 @@ YouTube Downloader & Trim ULTRA 🎬</h1>
   <a href="https://www.youtube.com/@HackBugs">YouTube Channel</a>
 </p>
 
+[![Download Tool](https://img.shields.io/badge/Download-Tool__ultra--v1.py-brightgreen?style=for-the-badge&logo=python)](https://github.com/HackBugs/YouTube-Video-Downloader-trimmer-Tool/releases/download/v1.0/Tool_ultra-v1.py)
 
 ![Copy YouTube Link](https://github.com/HackBugs/YouTube-Video-Downloader-trimmer-Tool/blob/main/Screenshot/1.png)
 ![Copy YouTube Link](https://github.com/HackBugs/YouTube-Video-Downloader-trimmer-Tool/blob/main/Screenshot/2.png)
